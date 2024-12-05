@@ -1,20 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| 90644493138445dc8ca6b8a687f7672a |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| NAME:\                           | DATE PERFORMED:        | /50      |
-| Eljay Floyd Carantes             | December 2, 2024       |          |
-|                                  |                        |          |
-| Jerric Panayo                    |                        |          |
-+----------------------------------+------------------------+----------+
-| Section: IDC2                    | DATE SUBMITTED:        |          |
-|                                  | December 2, 2024       |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/93de4871-4639-4e57-8ce9-c1a059c4e421)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
