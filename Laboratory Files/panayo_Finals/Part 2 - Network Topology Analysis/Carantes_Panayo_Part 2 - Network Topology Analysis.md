@@ -3,7 +3,7 @@
 |  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
 | ----- | :---- | :---: |
 | NAME: Eljay Floyd Carantes Jerric Panayo | DATE PERFORMED: December 2, 2024 | /50  |
-| Section: IDC2 | DATE SUBMITTED: December 2, 2024 |  |
+| Section: IDC2 | DATE SUBMITTED: December 5, 2024 |  |
 
 **Part 2\. Network Scalability Analysis**
 
