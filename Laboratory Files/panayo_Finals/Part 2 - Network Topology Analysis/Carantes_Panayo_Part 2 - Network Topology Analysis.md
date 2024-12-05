@@ -9,6 +9,8 @@
 
 Recall the e-commerce website scenario we discussed earlier. Given the expected surge in traffic, analyze the provided network topology diagram. Identify potential bottlenecks and areas where scalability might be a concern. Propose specific strategies to improve the network's scalability and performance to ensure a seamless user experience during the peak traffic period. Consider factors such as increased user demand, new applications, and security threats.
 
+![image](https://github.com/user-attachments/assets/d6c70fac-82f1-48ca-80d3-3a8061f8d865)
+
 **1\. Single Uplink from Access Switches to Core Switch (Potential Bottleneck)**
 
 * Each VLAN’s layer 2 switch has a single uplink to the central core switch. This configuration might become a bottleneck, especially if the aggregated 
@@ -37,7 +39,7 @@ However, to ensure that the system remains efficient:
 * Evaluate bandwidth usage during peak times to avoid bottlenecks.  
 * Plan for future growth by implementing modular and scalable hardware.
 
-![][image1]
+![image](https://github.com/user-attachments/assets/12898f62-d78c-4259-9513-47f887e3bb4f)
 
 **Improvements in the Latest Design**
 
